@@ -145,6 +145,7 @@ nav .nav-btn img {
   background: linear-gradient(#000, #000);
   background-repeat: no-repeat;
   -webkit-text-fill-color: transparent;
+  background-clip: text;
   -webkit-background-clip: text;
   background-size: 0%;
 }
